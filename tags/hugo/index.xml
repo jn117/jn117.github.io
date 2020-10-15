@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Jiangnan&#39;s Blog</title>
+    <link>http://example.org/tags/hugo/</link>
+    <description>Recent content in Hugo on Jiangnan&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Oct 2020 15:05:55 +0800</lastBuildDate><atom:link href="http://example.org/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于评论</title>
+      <link>http://example.org/2020/comment/</link>
+      <pubDate>Sat, 03 Oct 2020 15:05:55 +0800</pubDate>
+      
+      <guid>http://example.org/2020/comment/</guid>
+      <description>本博客站不支持评论系统，理由：觉得LeanCloud太麻烦，注册后还要实名认证和扫支付宝认证。 一款快速、简洁且高效的无后端评论系统。 Valine 诞生于</description>
+    </item>
+    
+  </channel>
+</rss>

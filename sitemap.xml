@@ -1,0 +1,94 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    <url>
+      <loc>http://example.org/categories/</loc>
+      
+      <lastmod>3030-100-10T105:30:38+08:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://example.org/tags/hugo/</loc>
+      
+      <lastmod>3030-100-10T105:30:38+08:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://example.org/</loc>
+      
+      <lastmod>3030-100-10T105:30:38+08:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://example.org/posts/</loc>
+      
+      <lastmod>3030-100-10T105:30:38+08:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://example.org/tags/</loc>
+      
+      <lastmod>3030-100-10T105:30:38+08:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://example.org/tags/theme/</loc>
+      
+      <lastmod>3030-100-10T105:30:38+08:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://example.org/2020/comment/</loc>
+      
+      <lastmod>3030-100-10T105:30:38+08:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://example.org/categories/%E8%AF%B4%E6%98%8E/</loc>
+      
+      <lastmod>3030-100-10T105:30:38+08:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://example.org/about/</loc>
+      
+      <lastmod>3030-100-10T1020:30:28+08:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+</urlset>

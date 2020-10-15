@@ -1,0 +1,36 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiangnan&#39;s Blog on Jiangnan&#39;s Blog</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Jiangnan&#39;s Blog on Jiangnan&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Oct 3030 105:30:38 +0800</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Posts</title>
+      <link>http://example.org/posts/</link>
+      <pubDate>Thu, 10 Oct 3030 105:30:38 +0800</pubDate>
+      
+      <guid>http://example.org/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Thu, 10 Oct 3030 1020:30:28 +0800</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>&lt;h1 id=&#34;安装雨果&#34;&gt;安装雨果&lt;/h1&gt;
+&lt;p&gt;在macOS，Windows，Linux，OpenBSD，FreeBSD上以及可以运行Go编译器工具链的任何计算机上安装Hugo。&lt;/p&gt;
+&lt;p&gt;Hugo用&lt;a href=&#34;https://golang.org/&#34;&gt;Go语言&lt;/a&gt;编写，支持多种平台。最新版本可以在&lt;a href=&#34;https://github.com/gohugoio/hugo/releases&#34;&gt;Hugo Releases中&lt;/a&gt;找到。&lt;/p&gt;
+&lt;p&gt;Hugo也可以从Go工具链可以运行的任何地方从源代码编译；例如在其他操作系统上，例如DragonFly BSD，OpenBSD，Plan 9，Solaris等。请参阅https://golang.org/doc/install/source，以获取目标操作系统和编译体系结构的完整支持组合&lt;/p&gt;
+&lt;p&gt;从&lt;a href=&#34;https://github.com/gohugoio/hugo/releases&#34;&gt;Hugo Releases&lt;/a&gt;下载适合您平台的&lt;a href=&#34;https://github.com/gohugoio/hugo/releases&#34;&gt;版本&lt;/a&gt;。下载后，二进制文件可以在任何地方运行。您无需将其安装到全局位置。这对于共享主机和其他没有特权帐户的系统非常有效。&lt;/p&gt;
+&lt;p&gt;理想情况下，您应该将其安装在自己的某个位置&lt;code&gt;PATH&lt;/code&gt;以便于使用。&lt;code&gt;/usr/local/bin&lt;/code&gt;是最可能的位置。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
